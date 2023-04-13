@@ -13,4 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshohug&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![BM's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![BM's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bshohug)](https://github.com/anuraghazra/github-readme-stats)
