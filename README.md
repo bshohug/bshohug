@@ -9,7 +9,7 @@
 - 🔭 Currently working as a **Freelancer** 
 - 🌱 Learning **Nodejs, React** 
 - 💬 Ask me about **Web App Development** 
-- 📫 Contact me: [here](bshohug@outlook.com) 
+- 📫 Contact me: [here](shohug95@gmail.com) 
 
 
 
