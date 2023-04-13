@@ -17,9 +17,9 @@
 
 | 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"#gh-dark-mode-only><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true#gh-dark-mode-only" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true#gh-dark-mode-only" /></a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"#gh-light-mode-only><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default&hide_border=true#gh-light-mode-only" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default&hide_border=true#gh-light-mode-only" /></a> |
 
 
 
