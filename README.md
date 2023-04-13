@@ -11,5 +11,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshohug&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) [![BM's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![BM's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshohug&layout=compact&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshohug&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)[![BM's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=algolia#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![BM's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
