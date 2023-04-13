@@ -1,8 +1,7 @@
-![Profile views](https://gpvc.arturio.dev/bshohug)  
-
 <h1 align='center'> Hi there 👋, it's BM Mahamudul </h1>
-<h1 align='center'> Full Stack Developer </h1>
-![A Full Stack Developer](https://pbs.twimg.com/profile_images/1640708062217650182/UOoGgUix_400x400.jpg)
+<h3 align='center'> Full Stack Developer </h1>
+
+![Profile views](https://gpvc.arturio.dev/bshohug)  
 
 I enjoy making new ideas live. 
 
