@@ -14,5 +14,8 @@ I enjoy making new ideas live.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bshohug)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bshohug/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bshohug)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshohug)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=transparent)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshohug)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![BM's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![BM's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
