@@ -4,6 +4,9 @@
 ![Profile views](https://gpvc.arturio.dev/bshohug)  
 
 
+<p align="center"><a href="https://bshohug.github.io"><img width="80%" alt="Hello, I'm BM!" src="[./assets/gh-readme-header.png](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)" /></a></p>
+
+
 - 🔭 Currently working as a **Freelancer** 
 - 🌱 Learning **Nodejs, React** 
 - 💬 Ask me about **Web App Development** 
@@ -11,15 +14,8 @@
 
 
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true#gh-dark-mode-only" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true#gh-dark-mode-only" /></a> <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default&hide_border=true#gh-light-mode-only" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true#gh-dark-mode-only" alt="BM's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bshohug&show_icons=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only" alt="BM's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&hide_border=true#gh-dark-mode-only" /></a> <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default&hide_border=true#gh-light-mode-only" /></a> |
 | ------------- | ------------- |
 
 
