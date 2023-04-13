@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/bshohug)  
 
 
-- 🔭 I’m currently working as a **Freelancer**. 
+- 🔭 I’m currently working as a **Freelancer** 
 - 🌱 I’m currently learning **Nodejs, React** 
 - 💬 Ask me about **Web App Development** 
 - 📫 How to reach me: bshohug@outlook.com 
