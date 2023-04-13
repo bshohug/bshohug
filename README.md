@@ -3,7 +3,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/bshohug)  
 
-I enjoy making new ideas live. 
 
 - 🔭 I’m currently working as a **Freelancer**. 
 - 🌱 I’m currently learning **Nodejs, React** 
