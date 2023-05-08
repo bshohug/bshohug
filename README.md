@@ -1,4 +1,4 @@
-<h1 align='center'> Hello! I'm BM Mahamudul </h1>
+<h1 align='center'> Hello! I'm Mahamudul Hasan Shohug</h1>
 <h3 align='center'> Front-End Developer </h1>
 
 ![Profile views](https://gpvc.arturio.dev/bshohug)  
