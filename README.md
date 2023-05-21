@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/bshohug)  
 
-<p align="center"><a href="https://bshohug.github.io"><img width="50%" alt="Hello, I'm BM!" src="coding/coding.gif" /></a></p>
+<p align="center"><a href="https://bshohug.github.io"><img width="50%" alt="Hello, I'm BM!" src="https://github.com/bshohug/bshohug/blob/main/dev-gifs/coding.gif" /></a></p>
 
 
 - 🔭 Currently working as a **Freelancer** 
