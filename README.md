@@ -1,7 +1,7 @@
 <h1 align='center'> Hello! I'm Mahamudul Hasan Shohug</h1>
 <h3 align='center'> Front-End Developer </h1>
 
-![Profile views](https://gpvc.arturio.dev/bshohug)  
+![Profile views](https://komarev.com/ghpvc/?username=bshohug)  
 
 <p align="center"><a href="https://bshohug.github.io"><img width="50%" alt="Hello, I'm BM!" src="https://github.com/bshohug/bshohug/blob/main/dev-gifs/coding.gif" /></a></p>
 
