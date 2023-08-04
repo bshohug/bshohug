@@ -1,15 +1,15 @@
 <h1 align='center'> Hello! I'm Mahamudul Hasan Shohug</h1>
-<h3 align='center'> Front-End Developer </h1>
+<h3 align='center'> Virtual Assistant | Research | Ecommerce Development </h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=bshohug)  
 
 <p align="center"><a href="https://bshohug.github.io"><img width="50%" alt="Hello, I'm BM!" src="https://github.com/bshohug/bshohug/blob/main/dev-gifs/coding.gif" /></a></p>
 
 
-- 🔭 Currently working as a **Freelancer** 
-- 🌱 Learning **Nodejs, React** 
-- 💬 Ask me about **Web App Development** 
-- 📫 Contact me: [here](mailto:shohug95@gmail.com) 
+- 🔭 Currently working as a **Freelancer** on **UpWork**
+- 💼 Portfolio: [visit here]([mailto:bmmahamudul@gmail.com](https://www.upwork.com/freelancers/~01fd64432f25a3cc81)) 
+- 🌱 Learning **Web App Development** 
+- 📫 Email me: [here](mailto:bmmahamudul@gmail.com) 
 
 
 
