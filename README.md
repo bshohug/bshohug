@@ -6,7 +6,7 @@
 <p align="center"><a href="https://bshohug.github.io"><img width="50%" alt="Hello, I'm BM!" src="https://github.com/bshohug/bshohug/blob/main/dev-gifs/coding.gif" /></a></p>
 
 
-- 🔭 Currently working as a **Freelancer** on [**UpWork**](https://www.upwork.com/freelancers/~01fd64432f25a3cc81)
+- 🔭 Currently working as a **Freelancer** on [**upwork**](https://www.upwork.com/freelancers/~01fd64432f25a3cc81)
 - 🌱 Learning **Web App Development** 
 - 💼 Portfolio: [visit here](https://www.upwork.com/freelancers/~01fd64432f25a3cc81) 
 - 📫 Email me: [here](mailto:bmmahamudul@gmail.com) 
