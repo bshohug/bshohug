@@ -7,8 +7,8 @@
 
 
 - 🔭 Currently working as a **Freelancer** on **UpWork**
-- 💼 Portfolio: [visit here]([mailto:bmmahamudul@gmail.com](https://www.upwork.com/freelancers/~01fd64432f25a3cc81)) 
 - 🌱 Learning **Web App Development** 
+- 💼 Portfolio: [visit here](https://www.upwork.com/freelancers/~01fd64432f25a3cc81) 
 - 📫 Email me: [here](mailto:bmmahamudul@gmail.com) 
 
 
