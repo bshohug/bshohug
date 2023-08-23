@@ -7,7 +7,7 @@
 
 
 - 🔭 Currently working as a **Freelancer** on [**upwork**](https://www.upwork.com/freelancers/~01fd64432f25a3cc81)
-- 🌱 Learning **Web App Development** 
+- 🌱 **Coding** is like a hobby to me.
 - 💼 Portfolio: [visit here](https://www.upwork.com/freelancers/~01fd64432f25a3cc81) 
 - 📫 Email me: [here](mailto:bmmahamudul@gmail.com) 
 
